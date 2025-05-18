@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dev Zaveri</h1>
+<h3 align="center">Software Developer | React Native Expert | Python Enthusiast</h3>
 
-<!--
-**devzaveri/devzaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devzaveri&label=Profile%20views&color=0e75b6&style=flat" alt="devzaveri" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Real-time object detection using TFLite + React Native + Android**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Advanced ML & Deep Learning for mobile**
+
+- 👯 I’m looking to collaborate on **AI/ML-integrated mobile projects**
+
+- 💬 Ask me about **React Native, Python scripting, or Android development**
+
+- 📫 How to reach me: **devsoni5880@gmail.com**
+
+- ⚡ Fun fact: **I turn coffee ☕ into code!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/dev-zaveri-52413421b" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dev-zaveri" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/devsoni5880/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="devsoni5880" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devzaveri&show_icons=true&theme=tokyonight" alt="devzaveri" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzaveri&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 🏆 Projects I'm Proud Of
+
+- 🔹 [React Native Dynamic Drawer Navigation](https://github.com/devzaveri/React-Native-Project-Structure-with-Dynamic-Drawer-Navigation)  
+  Modular and scalable navigation setup for React Native apps
+
+- 🔹 [Mac Changer for Kali](https://github.com/devzaveri/Mac-Changer-for-kali)  
+  Python tool to randomly change MAC addresses in Kali Linux
+
+- 🔹 [Color and Number Plate Detection](https://github.com/devzaveri)  
+  Real-time vehicle detection, color classification, and OCR using TFLite + Android
+
+---
+
