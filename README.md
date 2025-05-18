@@ -54,14 +54,22 @@
 
 ### 🏆 Projects I'm Proud Of
 
-- 🔹 [React Native Dynamic Drawer Navigation](https://github.com/devzaveri/React-Native-Project-Structure-with-Dynamic-Drawer-Navigation)  
-  Modular and scalable navigation setup for React Native apps
+- 🔹 [DevZaveri_Resume Public](https://github.com/devzaveri/DevZaveri_Resume-Public)  
+  My professional resume and achievements in a shareable, organized format.
 
-- 🔹 [Mac Changer for Kali](https://github.com/devzaveri/Mac-Changer-for-kali)  
-  Python tool to randomly change MAC addresses in Kali Linux
+- 🔹 [ThirdWebWallet](https://github.com/devzaveri/ThirdWebWallet)  
+  A decentralized wallet app using ThirdWeb for Web3 interactions.
 
-- 🔹 [Color and Number Plate Detection](https://github.com/devzaveri)  
-  Real-time vehicle detection, color classification, and OCR using TFLite + Android
+- 🔹 [BeatNest](https://github.com/devzaveri/BeatNest)  
+  A music streaming interface with smooth UI/UX and dynamic components.
+
+- 🔹 [EventFusion](https://github.com/devzaveri/EventFusion)  
+  A complete event organizing app using React Native with calendar integration.
+
+- 🔹 [BeautyApp](https://github.com/devzaveri/BeautyApp)  
+  Mobile application focusing on booking beauty services with sleek UI.
+
+- 🔹 [React-Native-Project-Structure-with-Dynamic-Drawer-Navigation](https://github.com/devzaveri/React-Native-Project-Structure-with-Dynamic-Drawer-Navigation)  
+  Template for scalable app architecture and dynamic drawer implementation.
 
 ---
-
