@@ -79,7 +79,7 @@
 ---
 
 <h3>🌐 Explore My Portfolio</h3>
-Visit my interactive portfolio here 👉 [https://dev-zaveri-portfolio.vercel.app](https://dev-zaveri-portfolio.vercel.app)
+Visit my interactive portfolio here 👉 https://dev-zaveri-portfolio.vercel.app/
 
 ---
 
