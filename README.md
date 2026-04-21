@@ -214,7 +214,7 @@
 
 <img src="https://raw.githubusercontent.com/devzaveri/devzaveri/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
-> ⚙️ **Setup required** — See `3d-contrib.yml` workflow file below. Run it once manually from Actions tab.
+> ⚙️ After running the `3d-contrib.yml` action once, this image will appear automatically.
 
 </div>
 
@@ -254,10 +254,8 @@
 <br/>
 
 <a href="https://app.daily.dev/devzaveri">
-  <img src="./devcard.png" width="356" alt="Dev Zaveri's Dev Card"/>
+  <img src="https://raw.githubusercontent.com/devzaveri/devzaveri/devcard/devcard.png" width="356" alt="Dev Zaveri's Dev Card"/>
 </a>
-
-> ⚙️ **Setup required** — See `devcard.yml` workflow file below. Needs your `USER_ID` secret from daily.dev.
 
 </div>
 
@@ -270,7 +268,7 @@
 
 <br/>
 
-[![@devzaveri's Holopin board](https://holopin.io/api/user/board?user=devzaveri)](https://holopin.io/@devzaveri)
+[![@devzaveri's Holopin board](https://holopin.io/api/user/board?user=devsoni1509)](https://holopin.io/@devsoni1509)
 
 > ⚙️ **Setup required** — Visit [holopin.io](https://holopin.io) → sign up with GitHub → collect badges → your board auto-embeds here.
 
@@ -312,10 +310,13 @@
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7B61FF,50:00FFB2,100:000000&height=150&section=footer&animation=fadeIn&reversal=true"/>
-</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=650&lines=⚡+Engineered+with+precision+·+Powered+by+caffeine+·+Built+to+last;💻+Every+commit+is+a+step+forward+·+Keep+shipping+bro+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=00FFB2&center=true&vCenter=true&width=700&lines=⚡+Engineered+with+precision+·+Powered+by+caffeine+·+Built+to+last;💻+Every+commit+is+a+step+forward+·+Keep+shipping+bro+🚀" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:7B61FF,50:00FFB2,100:000000&height=150&section=footer&animation=fadeIn&reversal=true"/>
 </div>
