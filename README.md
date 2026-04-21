@@ -63,7 +63,7 @@
 <td valign="top" width="40%" align="center">
 
 <a href="https://app.daily.dev/devzaveri15">
-  <img src="https://raw.githubusercontent.com/devzaveri/devzaveri/devcard/devcard.png" width="300" alt="Dev Zaveri's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/0miQut9bU0mMjZjZNaxKw.png" width="300" alt="Dev Zaveri's Dev Card"/>
 </a>
 
 </td>
