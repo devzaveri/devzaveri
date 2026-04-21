@@ -134,7 +134,7 @@
 
 </div>
 
-> ⚠️ **Snake setup:** Go to your repo → Actions → enable the [snake workflow](https://github.com/Platane/snk). It auto-generates this animation daily.
+
 
 ---
 
