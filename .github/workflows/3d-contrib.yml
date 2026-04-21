@@ -2,8 +2,11 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
-  workflow_dispatch:        # manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
@@ -18,19 +21,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: devzaveri
-          MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "username": "devzaveri",
-              "type": "normal",
-              "backgroundColor": "#0D1117",
-              "foregroundColor": "#E6EDF3",
-              "selectedColor": "#00FFB2",
-              "contributionColor": "#7B61FF",
-              "calendarSettings": {
-                "numCalendars": 1
-              }
-            }
 
       - name: Commit & push
         run: |
