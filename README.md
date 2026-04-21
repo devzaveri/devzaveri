@@ -11,10 +11,9 @@
 <!-- ══════════════════ TYPING — demolab (most stable) ══════════════════ -->
 <div align="center">
   <a href="https://github.com/devzaveri">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00FFB2&center=true&vCenter=true&width=750&height=50&lines=⚡+Engineering+blazing-fast+mobile+experiences;🧠+On-device+AI+%7C+TFLite+%2B+React+Native;🔐+Web3+Wallets+%7C+DeFi+%7C+Decentralized+Apps;🚀+12%2B+shipped+apps+·+3%2B+years+·+0+regrets;☕+Coffee+in+→+Production-grade+apps+out" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00FFB2&center=true&vCenter=true&width=600&lines=React+Native+Developer;Building+Scalable+Mobile+Apps;Redux+%7C+APIs+%7C+WebSockets;Performance+Optimization+Expert" />
   </a>
 </div>
-
 <br/>
 
 <!-- ══════════════════ STATUS BADGES ══════════════════ -->
